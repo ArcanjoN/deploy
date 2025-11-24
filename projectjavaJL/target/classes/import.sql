@@ -1,0 +1,12 @@
+INSERT INTO tb_user (nome, turma) VALUES ('Juju Cardoso', 6);
+INSERT INTO tb_user (nome, turma) VALUES ('Julia Cardoso', 6);
+INSERT INTO tb_user (nome, turma) VALUES ('Maria Santos', 6);
+INSERT INTO tb_user (nome, turma) VALUES ('Camila Vieira', 9);
+INSERT INTO tb_user (nome, turma) VALUES ('José Nilson', 7);
+INSERT INTO tb_user (nome, turma) VALUES ('Larissa Bomfim', 6);
+INSERT INTO tb_user (nome, turma) VALUES ('Afonso Pereira', 9);
+INSERT INTO tb_user (nome, turma) VALUES ('Maria Silva', 7);
+INSERT INTO tb_user (nome, turma) VALUES ('José Santos', 7);
+INSERT INTO tb_user (nome, turma) VALUES ('Lucas Ribeiro', 9);
+INSERT INTO tb_user (nome, turma) VALUES ('Carolina Almeida', 8);
+INSERT INTO tb_user (nome, turma) VALUES ('Bruno Mendes', 7);
